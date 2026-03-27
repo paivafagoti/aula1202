@@ -89,15 +89,34 @@ Administrador
 Casos de Uso:
 
 UC01 — Cadastrar Cliente
+<img width="324" height="312" alt="image" src="https://github.com/user-attachments/assets/8f082fe0-b55e-4952-8a95-bba94c7d53b3" />
 UC02 — Consultar Cliente
+<img width="301" height="257" alt="image" src="https://github.com/user-attachments/assets/f64dc6ab-4645-49bd-a0a8-82003b49b36e" />
+
 UC03 — Cadastrar Produto
+<img width="219" height="312" alt="image" src="https://github.com/user-attachments/assets/d6a6b24b-a52c-43db-806f-05d84165038d" />
+
 UC04 — Consultar Produto
+<img width="307" height="257" alt="image" src="https://github.com/user-attachments/assets/25303dd0-f901-47df-afe4-07535ddac552" />
+
 UC05 — Atualizar Produto
+<img width="233" height="367" alt="image" src="https://github.com/user-attachments/assets/9f2f2fe8-090b-4d37-9678-23fec5476b59" />
+
 UC06 — Realizar Venda
+<img width="636" height="606" alt="image" src="https://github.com/user-attachments/assets/d8700713-9eee-44c6-a986-1122b45ac2ce" />
+
 UC07 — Verificar Estoque
+<img width="286" height="257" alt="image" src="https://github.com/user-attachments/assets/72c0cd39-a99a-47d9-9239-d0cee3075f79" />
+
 UC08 — Atualizar Estoque
+<img width="231" height="367" alt="image" src="https://github.com/user-attachments/assets/41096a11-ef12-4afd-a3fa-0f4c0f711efc" />
+
 UC09 — Emitir Comprovante
+<img width="147" height="248" alt="image" src="https://github.com/user-attachments/assets/0424ad32-a880-491c-be6c-6cbce5684465" />
+
 UC10 — Login no Sistema
+<img width="324" height="312" alt="image" src="https://github.com/user-attachments/assets/3a50183f-3545-4dce-8ee0-6e4e74fa06cf" />
+
 
 Relacionamentos
 
