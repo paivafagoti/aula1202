@@ -34,22 +34,22 @@ Eu optei por deixar o sistema mais simples porque a ideia do MVP é justamente v
 
 2. Regras de Negócio
 
-RN01 — Cliente precisa estar cadastrado
+RN01 -- Cliente precisa estar cadastrado
 Para fazer uma compra, o cliente deve já estar no sistema.
 
-RN02 — Não pode vender sem estoque
+RN02 -- Não pode vender sem estoque
 O sistema não permite vender produtos que estejam sem quantidade disponível.
 
-RN03 — Estoque é atualizado automaticamente
+RN03 -- Estoque é atualizado automaticamente
 Quando uma venda é feita, o sistema já diminui a quantidade do produto.
 
-RN04 — Produto precisa ter preço válido
+RN04 -- Produto precisa ter preço válido
 Não pode cadastrar produto com preço zero ou negativo.
 
-RN05 — Cada produto tem um código único
+RN05 -- Cada produto tem um código único
 Não pode ter dois produtos com o mesmo código.
 
-RN06 — Venda precisa ter pelo menos um item
+RN06 -- Venda precisa ter pelo menos um item
 Não é possível finalizar uma venda vazia.
 
 3. Requisitos Funcionais
